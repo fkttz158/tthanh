@@ -1,2 +1,0 @@
-# tthanh
-hi
